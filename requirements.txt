@@ -1,0 +1,33 @@
+# requirements.txt
+
+# Core frameworks
+langchain
+langgraph
+langserve
+fastapi
+uvicorn
+
+# LLM and Tool Integrations
+langchain-groq
+langchain-openai
+langchain-google-genai
+openai
+pytube
+python-dotenv
+yt-dlp
+
+# For RAG (Vectorstore)
+faiss-cpu
+
+
+# Frontend
+streamlit
+requests
+
+
+# Local AI / ML
+transformers
+torch
+torchaudio
+librosa
+sentence-transformers
