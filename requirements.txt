@@ -3,27 +3,25 @@
 # Core frameworks
 langchain
 langgraph
-langserve
-fastapi
-uvicorn
+langserve # Still useful for local testing/understanding routes, but not strictly needed for direct invocation
+fastapi # Not strictly needed for deployment, but might be a dependency of langserve
+uvicorn # Not strictly needed for deployment
 
 # LLM and Tool Integrations
 langchain-groq
 langchain-openai
-langchain-google-genai
+langchain-google-genai # Added as per previous error
 openai
 pytube
 python-dotenv
-yt-dlp
+yt-dlp # This is a system dependency, not a pip package. See notes below.
 
 # For RAG (Vectorstore)
 faiss-cpu
 
-
 # Frontend
 streamlit
-requests
-
+requests # Not strictly needed for the refactored main.py, but harmless
 
 # Local AI / ML
 transformers
