@@ -6,6 +6,7 @@ langgraph
 langserve # Still useful for local testing/understanding routes, but not strictly needed for direct invocation
 fastapi # Not strictly needed for deployment, but might be a dependency of langserve
 uvicorn # Not strictly needed for deployment
+langchain_community
 
 # LLM and Tool Integrations
 langchain-groq
