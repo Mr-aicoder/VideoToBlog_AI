@@ -1,0 +1,3 @@
+# packages.txt
+yt-dlp
+ffmpeg
