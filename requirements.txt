@@ -16,6 +16,7 @@ openai
 pytube
 python-dotenv
 yt-dlp # This is a system dependency, not a pip package. See notes below.
+ffmpeg
 
 # For RAG (Vectorstore)
 faiss-cpu
