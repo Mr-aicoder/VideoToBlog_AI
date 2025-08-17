@@ -1,4 +1,4 @@
-# VideotoBlog AI Automation 🚀
+# Video-to-Blog AI 🚀
 Transform Your Youtube Video Content into Engaging Blog Posts, Automatically!
 This project is an advanced, end-to-end AI automation system designed to revolutionize content creation by seamlessly converting YouTube video content into high-quality, SEO-optimized blog posts. Leveraging the power of Generative AI and Natural Language Processing, it streamlines the process of content repurposing, allowing creators and businesses to expand their reach and maintain a consistent online presence with minimal manual effort.
 
@@ -14,6 +14,8 @@ Automated Publishing: Integrates directly with the Blogger API to automatically 
 Efficiency & Scale: Drastically reduces the manual effort involved in content repurposing, enabling rapid production of high-quality articles at scale.
 
 SEO Optimization: Generates content structured for search engine visibility, helping to drive organic traffic.
+
+
 
 ## 🛠️ Technologies Used
 Programming Language: Python
