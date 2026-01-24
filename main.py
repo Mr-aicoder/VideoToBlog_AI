@@ -6,7 +6,7 @@ import asyncio
 import os 
 
 # Import the compiled LangGraph workflow from blog_agent.py 
-from blog_agent import app, GraphState # Import app and GraphState
+from blog_agent import app, GraphState # Import app and GraphState 
 
 # --- Page Configuration ---
 st.set_page_config(
