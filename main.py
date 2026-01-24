@@ -10,7 +10,7 @@ from blog_agent import app, GraphState # Import app and GraphState
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="AI YouTube Blogger",
+    page_title="AI YouTube Blogger", 
     page_icon="🤖", 
     layout="wide", 
 )
