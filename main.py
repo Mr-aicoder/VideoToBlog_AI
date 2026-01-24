@@ -24,7 +24,7 @@ st.divider()
 # Important: Provide instructions for API key
 st.info("""
     **Heads up!** For this app to work, you need to set your `GROQ_API_KEY` as a Streamlit Secret.
-    Go to `☰ > Settings > Manage app > Secrets` and add `GROQ_API_KEY = "your_groq_api_key_here"`.
+    Go to `☰ > Settings > Manage app > Secrets` and add `GROQ_API_KEY = "your_groq_api_key_here"`. 
     
     **Note on performance:** This app downloads audio and uses local AI models (Whisper, HuggingFace embeddings).
     This can be resource-intensive and slow on Streamlit Cloud. For faster results, consider using
