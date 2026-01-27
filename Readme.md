@@ -15,7 +15,7 @@ Content Expansion & Generation: Utilizes Generative AI to expand summarized cont
 
 Automated Publishing: Integrates directly with the Blogger API to automatically publish the generated blog posts, complete with titles, tags, and formatted content.
 
-Efficiency & Scale: Drastically reduces the manual effort involved in content repurposing, enabling rapid production of high-quality articles at scale.
+Efficiency & Scale: Drastically reduces the manual effort involved in content repurposing, enabling rapid production of high-quality articles at scale
 
 SEO Optimization: Generates content structured for search engine visibility, helping to drive organic traffic.
 
