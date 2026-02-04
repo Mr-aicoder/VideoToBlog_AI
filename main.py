@@ -13,7 +13,7 @@ st.set_page_config(
     page_title="AI YouTube Blogger", 
     page_icon="🤖", 
     layout="wide", 
-)
+) 
 
 # --- Streamlit User Interface ---
 st.title("🤖 AI YouTube Blogger")
