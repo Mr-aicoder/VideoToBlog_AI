@@ -1,6 +1,6 @@
 # Video-to-Blog AI 🚀
 Transform Your Youtube Video Content into Engaging Blog Posts, Automatically!
-This project is an advanced, end-to-end AI automation system designed to revolutionize content creation by seamlessly converting YouTube video content into high-quality, SEO-optimized blog posts. Leveraging the power of Generative AI and Natural Language Processing, it streamlines the process of content repurposing, allowing creators and businesses to expand their reach and maintain a consistent online presence with minimal manual effort.
+This project is an advanced, end-to-end AI automation system designed to revolutionize content creation by seamlessly converting YouTube video content into high-quality, SEO-optimized blog posts. Leveraging the power of Generative AI and Natural Language Processing, it streamlines the process of content repurposing, allowing creators and businesses to expand their reach and maintain a consistent online presence with minimal manual effort. 
 
 
 <img width="1037" height="787" alt="Y-T_2 New Diagram" src="https://github.com/user-attachments/assets/11db29c7-c7a2-436d-948f-c82a8a1a56e2" />
