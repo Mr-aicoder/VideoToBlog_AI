@@ -11,7 +11,7 @@ Automated Transcription: Fetches YouTube video content and converts spoken words
  
 Intelligent Summarization: Employs fine-tuned Large Language Models (LLMs) to intelligently summarize lengthy video transcripts, extracting core themes and key points.
 
-Content Expansion & Generation: Utilizes Generative AI to expand summarized content into engaging, coherent, and SEO-friendly blog post narratives, maintaining the original video's context and tone.
+Content Expansion & Generation: Utilizes Generative AI to expand summarized content into engaging, coherent, and SEO-friendly blog post narratives, maintaining the original video's context and tone. 
 
 Automated Publishing: Integrates directly with the Blogger API to automatically publish the generated blog posts, complete with titles, tags, and formatted content.
 
