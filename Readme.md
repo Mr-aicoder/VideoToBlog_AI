@@ -8,7 +8,7 @@ This project is an advanced, end-to-end AI automation system designed to revolut
 
 ## ✨ Key Features
 Automated Transcription: Fetches YouTube video content and converts spoken words into accurate text using state-of-the-art Speech-to-Text APIs
-
+ 
 Intelligent Summarization: Employs fine-tuned Large Language Models (LLMs) to intelligently summarize lengthy video transcripts, extracting core themes and key points.
 
 Content Expansion & Generation: Utilizes Generative AI to expand summarized content into engaging, coherent, and SEO-friendly blog post narratives, maintaining the original video's context and tone.
